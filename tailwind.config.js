@@ -35,7 +35,7 @@ module.exports = {
         bluegray_101: "#d9d9d9",
         white_A700: "#ffffff",
       },
-      fontFamily: { markoone: "Marko One", manrope: "Manrope" },
+      fontFamily: { markoone: "'Marko One'", manrope: "'Manrope'" },
       boxShadow: { bs: "0px 30px  30px 0px #91aebb33" },
     },
   },
